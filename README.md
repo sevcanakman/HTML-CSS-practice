@@ -7,6 +7,3 @@ Basit front-end egzersizi. HTML ile sayfa yapısı, CSS ile stil uygulandı.
 
 ## Nasıl Çalıştırılır
 Tarayıcıda "index.html" dosyasını açın.
-
-## GitHub
-https://github.com/kullanici-adiniz
